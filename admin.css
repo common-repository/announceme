@@ -1,0 +1,7 @@
+#icon-announceme-main {background: URL('main.png') 2px 2px no-repeat;}
+#icon-announceme-new {background: URL('new.png') 2px 2px no-repeat;}
+#announce-title {border: 1px solid #ddd; color: #888; padding: 3px 4px; -webkit-border-radius: 6px; outline: none; width: 99.7%; margin-bottom: 15px; font: 1.7em Times New Roman; font-style: italic; line-height: 32px;}
+#announceme .postbox .hndle {cursor: inherit;}
+#announceme #poststuff {float: left; width: 100%;}
+#announceme .postbox {float: left; width: 49%; min-width: 200px; margin-right: 1.5%;}
+#extra-cat-4 {padding-top: 4px; margin-top: 4px; border-top: 1px solid #444;}
